@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreatWorks/GreatWorks.iml" filepath="$PROJECT_DIR$/GreatWorks/GreatWorks.iml" />
       <module fileurl="file://$PROJECT_DIR$/PachongTest/PachongTest.iml" filepath="$PROJECT_DIR$/PachongTest/PachongTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonFreshman_Personnal_HomeworkCollection.iml" filepath="$PROJECT_DIR$/.idea/PythonFreshman_Personnal_HomeworkCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/preSelfLearn/preSelfLearn.iml" filepath="$PROJECT_DIR$/preSelfLearn/preSelfLearn.iml" />
