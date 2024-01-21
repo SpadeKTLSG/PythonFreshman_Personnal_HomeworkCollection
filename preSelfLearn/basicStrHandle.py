@@ -56,3 +56,32 @@ print(reverse_words1("elbuod  decaps  sdrow"))
 print(reverse_words2("elbuod  decaps  sdrow"))
 print(reverse_words3("elbuod  decaps  sdrow"))
 print(deep_in("elbuod  decaps  sdrow"))
+
+
+# ---
+
+# 找空格
+def find_next_square(sq):
+    return (int(sq ** (1 / 2) + 1) ** 2) if (float(sq ** (1 / 2)) == round(sq ** (1 / 2))) else -1
+
+
+print(find_next_square(144))
+
+
+# 对字符串的大小写字母进行转换
+def capitalize1(s):
+    result = ['', '']
+    for i, c in enumerate(s):  # i显示遍历的位子，c表示这个对象
+        result[0] += c.lower() if i % 2 else c.upper()
+        result[1] += c.upper() if i % 2 else c.lower()
+    return result
+
+
+# swapcase() 方法用于对字符串的大小写字母进行转换
+def capitalize2(s):
+    s = ''.join(c if i % 2 else c.upper() for i, c in enumerate(s))
+    return [s, s.swapcase()]
+
+
+def reverse_letter(s):
+    return ''.join(i for i in s if i.isalpha())[::-1]
