@@ -1,0 +1,2 @@
+# PythonFreshman_Personnal_HomeworkCollection
+Python初心者个人练习保存集_纪念Freshman时光
