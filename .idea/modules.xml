@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonFreshman_Personnal_HomeworkCollection.iml" filepath="$PROJECT_DIR$/.idea/PythonFreshman_Personnal_HomeworkCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preSelfLearn/preSelfLearn.iml" filepath="$PROJECT_DIR$/preSelfLearn/preSelfLearn.iml" />
+    </modules>
+  </component>
+</project>
